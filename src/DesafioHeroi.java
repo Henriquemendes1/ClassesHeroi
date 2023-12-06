@@ -14,7 +14,7 @@ public class DesafioHeroi {
 
                 //Metodo pra atacar
                 public void attack() {
-                    String attack = "";
+                    String attack = ""
                     switch (this.type) {
                         case "mage":
                             attack = "the magic";
